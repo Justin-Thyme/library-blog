@@ -21,7 +21,7 @@
 title: Justin's Library Blog
 email: jtshannin@uncg.edu
 description: # this means to ignore newlines until "baseurl:"
-  My name is Justin Shannin. I am in librarian-in-training, burlesque dancer, and also a food tour guide. Welcome to my site!
+  My is Justin Shannin. I am in librarian-in-training, burlesque dancer, and also a food tour guide. Welcome to my site!
 baseurl: "Blog-for-636" # the subpath of your site, e.g. /blog
 url: "https://justin-thyme.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
