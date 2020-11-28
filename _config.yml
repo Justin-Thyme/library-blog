@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  Justin-Thyme
 
 # Build settings
-theme: jekyll-agency
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
